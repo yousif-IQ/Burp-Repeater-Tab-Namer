@@ -1,0 +1,6 @@
+work/
+*.class
+*.zip
+*.tmp
+.idea/
+*.iml
